@@ -1,6 +1,6 @@
 package produck.inventory;
 
-public class testBusPratikum {
+public class tesBus {
     public static void main(String[] args) {
         Main busMini = new Main(10);
         busMini.addPenumpang(5);
